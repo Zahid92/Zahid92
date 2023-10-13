@@ -15,7 +15,7 @@
     <div>
         <h3>📫 Reach me @ </h3>
     </div>
-<!--         <a href="https://zahid92.github.io/Portfolio/">Portfolio page in development(not ready)</a><br> -->
+        <a href="https://zahid92.github.io/Portfolio/">Portfolio page in development</a><br>
         <a href="https://www.linkedin.com/in/zahid1998/" target="_blank">LinkedIn: Zahid1998</a><br>
         <a href="https://www.instagram.com/zahid_ansari_92" target="_blank">Insta: Zahid Ansari</a></div></br>
     - 📫 Drop a mail @ <a href="mailto:ansarizahid2098@gmail.com" target="_blank">Ansarizahid2098@gmail.com</a>
