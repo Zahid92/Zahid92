@@ -1,8 +1,5 @@
-<div align="center">
-     <div>
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB1anpmOTB2aXk0ZDU1ZDc5YzN3cjJlNXpqcTloZDlhZHJyb3h6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="heavy coder">
-    </div>
-    <div>
+<div>
+    <div align="center">
          <h2>Hi there!!! Its Zahid Ansari from India. 👋</h2>
          <h1>Senior Software Engineer @ Persistent Systems</h1>
           <ul class = "list-group list-group-flush">
@@ -14,7 +11,12 @@
           </ul>
      </div>
      <div>
-          [![trophy](https://github-profile-trophy.vercel.app/?username=zahid92)](https://github.com/ryo-ma/github-profile-trophy)
+          <h3 align="left">Git Stats:</h3>
+          <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahid92&show_icons=true&locale=en&layout=compact" alt="zahid92" /></p>
+          <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahid92&show_icons=true&locale=en" alt="zahid92" /></p>
+<!--           <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=zahid92" alt="GitHub Streak" /></a> -->
+          <h3 align="left">Git Tophies:</h3>
+          <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahid92" alt="zahid92" /></a> </p>
      </div>
      <div>
          <div>
