@@ -1,11 +1,11 @@
 <div>
     <div align="center">
          <h2>Hi there!!! Its Zahid Ansari from India. 👋</h2>
-         <h1>Senior Software Engineer @ Persistent Systems</h1>
+         <h1>Senior Executive/Senior Software Engineer @ Sulzer</h1>
           <ul class = "list-group list-group-flush">
-            <li class="list-group-item">🔭 I’m currently working on .Net Core(C#), Python and Angular.</li>
-            <li class="list-group-item">🌱 Learning with CS50 (Harvard University) and Learning with Microsoft for Azure related tech</li>
-            <li class="list-group-item">👯 Looking to collaborate on Data extensive projects, creating and consuming API's.</li>
+            <li class="list-group-item">🔭 Currently I’m working with .Net Core(C#), Python and Angular along with containerization with Docker.</li>
+            <li class="list-group-item">🌱 Learning with CS50 (Harvard University) and Learning with Microsoft for Azure(Cloud) related tech</li>
+            <li class="list-group-item">👯 Looking to collaborate on Data extensive projects, creating and consuming API's and real time systems.</li>
             <li class="list-group-item">💬 Ask me about Software Engineering, DSA, C#, Python, Typescript and problem solving in general.</li>
             <li class="list-group-item">⚡ Fun fact: I also love playing guitar, singing and solving algorithmic problems.</li>
           </ul>
